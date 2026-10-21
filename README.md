@@ -1,7 +1,5 @@
 # Agent Performance Scorecard (demo)
 
-**Live demo:** https://zorro2018.github.io/Agent-Performance/
-
 A single-file, interactive scorecard that grades contact-center agents month by month on a weighted
 composite of quality, productivity and adherence KPIs. It's built for coaching, not policing: every grade
 can be traced back to the raw KPI values, the benchmark each one was scored against, and the weight it carries.
@@ -32,4 +30,3 @@ can be traced back to the raw KPI values, the benchmark each one was scored agai
 Open `index.html` in any modern browser. No server or build step is needed (Tailwind CSS and Chart.js load from
 public CDNs).
 
-Built by [Victor Chowdhury](https://www.victorbuildsai.com/).
